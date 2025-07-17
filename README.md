@@ -36,4 +36,5 @@ Standard Library (os, shutil, sys)
 
 👩‍💻 Author
 Dhara Lakshmi Kusumanchi
-<img width="1053" height="117" alt="image" src="https://github.com/user-attachments/assets/dfa191ec-ad4c-4c40-b42a-c9afce787383" />
+<img width="1053" height="117" alt="Screenshot 2025-07-17 224503" src="https://github.com/user-attachments/assets/1228d467-1907-4c9f-9160-d481f463f933" />
+
